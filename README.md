@@ -34,8 +34,8 @@ TieTheTale/
 ```
 
 ## Deployment
-- **Backend** → Render.com (free)
-- **Frontend** → Vercel (free)
-- **Database** → MongoDB Atlas (free)
+- **Backend** → Render.com
+- **Frontend** → Vercel
+- **Database** → MongoDB Atlas
 
 See the deployment guide for step-by-step instructions.
